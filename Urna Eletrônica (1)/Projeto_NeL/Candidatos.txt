@@ -1,0 +1,4 @@
+Bolsonaro;PSOL;17
+Lula Livre;PT;13
+Vitinho;REDE;34
+Marina;NOVO;67
